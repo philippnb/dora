@@ -1,0 +1,304 @@
+.activity {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.activity .div {
+  background-color: #ffffff;
+  width: 393px;
+  height: 852px;
+  position: relative;
+}
+
+.activity .overlap {
+  position: absolute;
+  width: 339px;
+  height: 83px;
+  top: 67px;
+  left: 27px;
+}
+
+.activity .text-wrapper {
+  position: absolute;
+  width: 339px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .reward-won-by {
+  position: absolute;
+  width: 138px;
+  top: 49px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .overlap-group {
+  position: absolute;
+  width: 339px;
+  height: 144px;
+  top: 166px;
+  left: 27px;
+  background-color: #e8fb67;
+  border-radius: 15px;
+}
+
+.activity .text-wrapper-2 {
+  position: absolute;
+  top: 20px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.activity .element-in-a-month {
+  position: absolute;
+  top: 20px;
+  left: 224px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .span {
+  font-weight: 900;
+}
+
+.activity .text-wrapper-3 {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.activity .p {
+  position: absolute;
+  width: 114px;
+  top: 50px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .polygon {
+  top: 112px;
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  left: 29px;
+}
+
+.activity .overlap-2 {
+  position: absolute;
+  width: 339px;
+  height: 144px;
+  top: 326px;
+  left: 27px;
+  background-color: #f1f1f1;
+  border-radius: 15px;
+}
+
+.activity .overlap-3 {
+  position: absolute;
+  width: 299px;
+  height: 64px;
+  top: 17px;
+  left: 25px;
+}
+
+.activity .overlap-4 {
+  position: absolute;
+  width: 299px;
+  height: 48px;
+  top: 0;
+  left: 0;
+}
+
+.activity .element-h-in-a-month {
+  position: absolute;
+  top: 0;
+  left: 199px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.activity .text-wrapper-5 {
+  position: absolute;
+  width: 114px;
+  top: 30px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .img {
+  top: 109px;
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  left: 29px;
+}
+
+.activity .overlap-group-2 {
+  position: absolute;
+  width: 339px;
+  height: 144px;
+  top: 485px;
+  left: 27px;
+  background-color: #f1f1f1;
+  border-radius: 15px;
+}
+
+.activity .element-in-a-month-2 {
+  position: absolute;
+  top: 13px;
+  left: 224px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .text-wrapper-6 {
+  position: absolute;
+  top: 18px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.activity .text-wrapper-7 {
+  position: absolute;
+  width: 163px;
+  top: 48px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .polygon-2 {
+  top: 110px;
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  left: 29px;
+}
+
+.activity .overlap-5 {
+  position: absolute;
+  width: 339px;
+  height: 144px;
+  top: 645px;
+  left: 27px;
+  background-color: #f1f1f1;
+  border-radius: 15px;
+}
+
+.activity .element-year-per-day {
+  position: absolute;
+  top: 15px;
+  left: 223px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .text-wrapper-8 {
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.activity .text-wrapper-9 {
+  position: absolute;
+  width: 114px;
+  top: 45px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.activity .polygon-3 {
+  top: 107px;
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  left: 29px;
+}
